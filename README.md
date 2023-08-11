@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Doyinsoextra
-- 👀 I’m interested in Data science/analytics ...
-- 🌱 I’m currently learning Python and SQL...
+- 👋 Hi, I’m Adedoyin
+- 👀 I’m interested in Data Science
+- 🌱 I am proficient in the usage of SQL and Python for DS/ML...
 - 💞️ I’m looking to collaborate on projects that I can learn from and build with
 - 📫 You can reach me via twitter @doyinsoextra..
 
